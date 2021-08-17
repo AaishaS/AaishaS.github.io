@@ -12,16 +12,8 @@
         "start": "npm run build && node scripts/start.js",
         "start:debug": "npm run build && node scripts/start-debug.js"
     },
-    "description": "A freelancer portfolio HTML theme for Bootstrap.",
-    "keywords": [
-        "css",
-        "sass",
-        "scss",
-        "html",
-        "pug",
-        "responsive",
-        "theme",
-        "template"
+    "description": "Phd student at king's college london.",
+  
     ],
     "homepage": "https://startbootstrap.com/theme/freelancer",
     "bugs": {
